@@ -2,7 +2,7 @@ TIL
 
 과제
 
-(https://github.com/ohcj03/flutterapp/blob/main/README_1.md)
+(https://github.com/ohcj03/flutterapp/tree/main/weekapp)
 
 -------------------------------------------------------------------
 
