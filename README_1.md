@@ -4,7 +4,7 @@
 
 1주차 
 
-(weekapp/week_02/Hello_World.dart)
+(http.github.weekapp/week_02/Hello_World.dart)
 
 2주차
 
