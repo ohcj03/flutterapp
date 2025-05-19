@@ -10,4 +10,4 @@ TIL
 개인 프로젝트
 
 
-(https://github.com/ohcj03/flutterapp/blob/main/README_2.md)
+(https://github.com/ohcj03/flutterapp/blob/main/flutterproject.md)
